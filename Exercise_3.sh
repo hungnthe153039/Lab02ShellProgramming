@@ -11,6 +11,5 @@ fi
 
 if [ $var = "year" ]
 		then echo "Nam: $(date +'%Y')"
-	break
 fi
 
