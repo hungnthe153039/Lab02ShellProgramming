@@ -1,2 +1,0 @@
-# Lab02ShellProgramming
-HungNTHE153039
